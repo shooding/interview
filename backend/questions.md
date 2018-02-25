@@ -4,23 +4,23 @@
 
 - How did you decide log level (in your experience) ?
 
-- A request containing 1323 records need to be executed. Users are complaining about the response time. How do you speed up? What would you do if #617 of the 1323 records goes wrong by the way you are proposing?
+- A API request containing 1323 records need to be executed. Users are complaining about the response time. How do you speed up? What would you do if #617 of the 1323 records goes wrong by the way you are proposing?
 
 - Would you choose to make the above API a micro service? If not, why not ?
 
 - It's 1 am in the midnight. You receive alerts of 99.3% disk usage. What would you do about it?
 
-- About learning new stuff, have you been mining any coin ? AI ? Tensorflow? Kubernetes? or Live streaming? wBeing a YouTuber? Which mobile payment you're using and why? What do you think of these industries? 
+- About learning new stuff, have you been mining any coin ? AI ? Tensorflow? Kubernetes? or Live streaming? Ever being a YouTuber? Which mobile payment you're using and why? What do you think of these industries? 
 
 - Have you participated in any technical projects (not related to your school) during under graduate? 
  
-- You receive system alert about sudden traffic. After tracing logs you find the requests are coming from a specific version of App. What are the possible reasons and how do you fix it? Can you determine whether this is an APT attack or not ?
+- You receive system alerts about sudden traffic. After tracing logs you find the requests are coming from a specific version of App. What are the possible reasons and how do you fix it? Can you determine whether this is an APT attack or not ?
 
-- In contrast, system alert about no traffic at all today. What are the possible reasons and how do you fix it?
+- In contrast, system alerts about no traffic at all today. What are the possible reasons and how do you fix it?
 
-- A service is depends on library a,b,c,d. Library d has been reported by CVE (like heartbleed or CPU Meltdown CVE-2017-5754) and recommended a update. Which steps would you take before doing such update?
+- A service depends on library a,b,c and d. Library d has been reported by CVE (like heartbleed or CPU Meltdown CVE-2017-5754) and recommended a update. What steps will you take before doing such update?
 
-- If you have "unlimited" fund to start a business, what kind of projects would you do?
+- If you have **"unlimited"** funding to start a new business, what kind of projects would you do?
 
 - If you are a Venture Capital (VC), how much would you invest our company ?
 
