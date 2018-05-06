@@ -13,7 +13,7 @@
 - It's 1 am in the midnight. You receive alerts of 99.3% disk usage. What would you do about it?
 
 - **About learning new stuff**, have you been mining any coin ? AI ? Tensorflow? Kubernetes? or Live streaming? Ever being a YouTuber? Which mobile payment you're using and why? What do you think of these industries? 
-- A: 1.我有在使用coinpot挖彼特幣和領取水龍頭硬幣。2.有在學深度學習並且會使用tensorflow。3.行動支付的話有在使用街口支付，指定店家的話有不錯的回饋。討論我本身有參與的技術：1.我覺得虛擬貨幣本身還在法律無法管控的階段，有太多不確定性和炒作在其中，本身是以沾一下的態度參與，等穩定的時候再以傳統金融商品的角度去看待。2.AI產業的話必定是個趨勢，本身也是在退伍後持續開始學習，希望可以用AI做許多有想過的事情。3.行動支付必定是個趨勢，小時候就看過那種對未來的刻化的故事書，減少貨幣使用的科技會使生活越便利，不過像知名的paypal目前尚存在洗錢的問題。
+- A: 1.我有在使用coinpot挖彼特幣和領取水龍頭硬幣。2.有在學深度學習並且會使用tensorflow。3.行動支付的話有在使用街口支付，指定店家的話有不錯的回饋。討論我本身有參與的技術：1.我覺得虛擬貨幣本身還在法律無法管控的階段，有太多不確定性和炒作在其中，本身是以沾一下的態度參與，等穩定的時候再以傳統金融商品的角度去看待。2.AI產業的話必定是個趨勢，本身也是在退伍後持續開始學習，希望可以用AI做許多有想過的事情。3.行動支付必定是個趨勢，小時候就看過那種對未來的刻化的故事書，減少貨幣使用的科技會使生活越便利。
 - Have you participated in any technical projects (not related to your school) during under graduate? 
  
 - You receive system alerts about sudden traffic. After tracing logs you find the requests are coming from a specific version of App. What are the possible reasons and how do you fix it? Can you determine whether this is an APT attack or not ?
