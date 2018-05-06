@@ -17,7 +17,7 @@
 - Have you participated in any technical projects (not related to your school) during under graduate? 
  
 - You receive system alerts about sudden traffic. After tracing logs you find the requests are coming from a specific version of App. What are the possible reasons and how do you fix it? Can you determine whether this is an APT attack or not ?
-
+- A: 看看該App是不是過於熱門需要設計新的演算法去優化、是否可以動態增加頻寬、或是增加平行運算降低traffic的機率。必須要從IP的追蹤判斷是否是惡意攻擊，同一個IP大量的require就有可能是惡意攻擊。
 - In contrast, system alerts about no traffic at all today. What are the possible reasons and how do you fix it?
 
 - A service depends on library a,b,c and d. Library d has been reported by CVE (like heartbleed or CPU Meltdown CVE-2017-5754) and recommended an update. What steps will you take before doing such update?
