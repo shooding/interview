@@ -31,25 +31,24 @@
 ### Choose 3 of them to answer via submitting pull requests.
 
 - In php, what are the result of these? Try php -i
-
-參考線上編譯器http://www.writephponline.com/ :
+- 參考線上編譯器http://www.writephponline.com/ :
 	- $a=""; echo isset($a);
-	A: 1
+	- A: 1
 	- $a=0; empty($a);
-	A: nothing to show
+	- A: nothing to show
 	- $a=""; is\_null($a);
-	A: nothing to show
+	- A: nothing to show
 	- $a=""; if($a) echo "1"; else echo "0";
-	A: 0
+	- A: 0
 	- $a="+886"; if(is\_numeric(+886)) echo "is numeric"; else "not numeric";
 	
 
 - In php, what is difference between array $a + array $b to array_merge($a,$b) ? See: http://blog.hsatac.net/2012/11/php-array-plus-array-versus-array-merge/
-A: 參考連結得到結論: 1.merege(a,b)的行為是先以append把b放在後面，若有key相同的element則以b來取代a，沒有key的element則在後面重新給定index。
+- A: 參考連結得到結論: 1.merege(a,b)的行為是先以append把b放在後面，若有key相同的element則以b來取代a，沒有key的element則在後面重新給定index。
 2.array a+b的行為也是先以append把b放在後面，有相同key和index的element的b直接砍掉，且不會重新排序。
 
 - What is the year 2038 problem? 
-A:參考維基百科，舊的程式資料是以32BIT儲存的，以時間來說會以2^32-1秒為一個循環，當約2038年的時候一些軟體會在時間上回到起始的1901年
+- A:參考維基百科，舊的程式資料是以32BIT儲存的，以時間來說會以2^32-1秒為一個循環，當約2038年的時候一些軟體會在時間上回到起始的1901年
 
 - Please explain JAX-RS Lifecycle. If you want to log something, which stage would you choose to do it ? filter stage or interceptor stage ?
 
