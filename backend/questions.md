@@ -31,6 +31,7 @@
 ### Choose 3 of them to answer via submitting pull requests.
 
 - In php, what are the result of these? Try php -i
+
 參考線上編譯器http://www.writephponline.com/ :
 	- $a=""; echo isset($a);
 	A: 1
