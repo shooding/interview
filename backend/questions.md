@@ -7,7 +7,7 @@
 - How did you decide log level (in your experience) ?
 
 - A API request containing 1323 records need to be executed. Users are complaining about the response time. How do you speed up? What would you do if #617 of the 1323 records goes wrong by the way you are proposing?
-
+- 先處簡短的request或是相同相似的request可以同時處理，以簡短當前的負載，事後再來研究怎麼讓系統更有效率。如果#617的處理出錯則可以回朔來進行個別處理以保證request的處理不會有問題
 - Would you choose to make the above API a micro service? If not, why not ?
 
 - It's 1 am in the midnight. You receive alerts of 99.3% disk usage. What would you do about it?
