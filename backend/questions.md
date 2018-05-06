@@ -23,7 +23,7 @@
 - A service depends on library a,b,c and d. Library d has been reported by CVE (like heartbleed or CPU Meltdown CVE-2017-5754) and recommended an update. What steps will you take before doing such update?
 
 - If you have **"unlimited"** funding to start a new business, what kind of projects would you do?
-A: 目前比較想從事的是將AI應用在體育上面，之前有看過國外將籃球員的場上動作用電腦記錄下來，分析其在什麼位置、什麼動作上的效率比較高，戰術上的好壞也能被分析出來，甚至可以在比賽中應用，勇士隊在2014-2015奪冠的賽季就有使用這項系統。台灣目前還處於人工記錄的階段，開發這項系統在任何運動上都有大大增加指導效率的好處。
+-A: 目前比較想從事的是將AI應用在體育上面，之前有看過國外將籃球員的場上動作用電腦記錄下來，分析其在什麼位置、什麼動作上的效率比較高，戰術上的好壞也能被分析出來，甚至可以在比賽中應用，勇士隊在2014-2015奪冠的賽季就有使用這項系統。台灣目前還處於人工記錄的階段，開發這項系統在任何運動上都有大大增加指導效率的好處。
 - If you are a Venture Capital (VC), how much would you invest our company ?
 
 # Technical questions
