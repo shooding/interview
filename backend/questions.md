@@ -2,6 +2,8 @@
 
 ### Choose 3 of them to answer via submitting pull requests.
 
+- Design a one-time-download link for Dropbox.
+
 - If you are asked to design a Google Drive like service, which database will you choose and why? 
 
 - How did you decide log level (in your experience) ?
